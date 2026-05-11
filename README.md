@@ -4,7 +4,7 @@ Um projeto interativo, que consiste em uma pagina web que cria com auxilio de um
 ## Podemos ver atraves dessa aprensentação como ele se comporta:
 
 <img width="1856" height="920" alt="Image" src="https://github.com/user-attachments/assets/a71e6868-4bfb-44a4-95af-94d5589b9143" />
-<a href="https://slv-levi.github.io/projeto-pokedevs/" target="_blank">link para a página.</a>
+<a href="https://slv-levi.github.io/Criador-de-sites/">link para a página.</a>
 
 ## Tecnologias utilizadas
 - HTML;
