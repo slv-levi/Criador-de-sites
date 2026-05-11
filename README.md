@@ -1,9 +1,9 @@
 # Projeto DevCreator
 Um projeto interativo, que consiste em uma pagina web que cria com auxilio de uma IA paginas web vairando pela area de atuação, criada em parceria com o professor Rodolfo Mori - DevClub, foi um grande desafio, mas á experiencia foi incrivel!
 
-## Podemos ver atraves dessa aprensentação como ele se comporta, a animação e a interação na troca das images/descrições:
+## Podemos ver atraves dessa aprensentação como ele se comporta:
 
-[![animação](https://github.com/user-attachments/assets/23f5bb1a-c286-4c13-9069-e72e1fab0661)](https://github.com/slv-levi/Criador-de-sites/issues/1#issue-4423668603)
+<img width="1856" height="920" alt="Image" src="https://github.com/user-attachments/assets/a71e6868-4bfb-44a4-95af-94d5589b9143" />
 <a href="https://slv-levi.github.io/projeto-pokedevs/" target="_blank">link para a página.</a>
 
 ## Tecnologias utilizadas
